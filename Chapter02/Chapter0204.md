@@ -3,7 +3,7 @@
  * @Author: Andew
  * @Date: 2019-10-12 14:40:09
  * @LastEditors: Andrew
- * @LastEditTime: 2019-10-12 15:29:44
+ * @LastEditTime: 2019-10-14 09:03:59
  -->
 
 # 2.4 函数
@@ -44,3 +44,7 @@ int main()
 ![自定义函数](images/21356575.jpg)
 
 ## 2.4.4 有返回值的自定义函数
+
+## 2.4.5 在多函数程序中使用using指令
+
+根据不同的需求using的位置也可以不同，甚至可以完全不用using指令，使用`std::`的指令来指定。
